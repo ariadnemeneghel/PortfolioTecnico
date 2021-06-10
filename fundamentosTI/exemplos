@@ -1,0 +1,37 @@
+Autoria: Ariadne Meneghel Innocente Marques 
+Descrição: Exemplos de Script. 
+--------------------------------------------
+#!/bin/bash
+echo "Escolha um numero:"
+read valor
+if [ $valor -lt 0 ]
+then
+      echo "Este valor é negativo"
+else
+      echo "Este valor é positivo"
+fi
+------------------------------------------
+#!/bin/bash
+#PrimeiraForma
+echo "Primeira Forma:"
+for i in seq $(seq 1 10)
+do
+     echo "si"
+done
+ 
+#SegundaForma
+echo "Segunda Forma:"
+i=1
+while [ $i -le 10 ]
+do
+    echo $i
+    i=$((i+1))
+done
+---------------------------------------------
+#!/bin/bash
+echo "Escolha um valor:"
+read valor
+for i in $(seq 1 $valor)
+do
+    echo $i
+done
