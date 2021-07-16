@@ -28,12 +28,12 @@ COMPETÊNCIAS:
 - Inglês básico 
 -------------------------------------------
 # Questão 1 Prova 16/07
-#!/bin/bash
+ #!/bin/bash
  
 cat /etc/passwd
 -------------------------------------------
 # Questão 2
-#!/bin/bash
+.#!/bin/bash
  
 cat "as letras indicam a permissao do usuário:  r=ler, w=escrever e x=executar"
 echo "qual o seu arquivo?"
