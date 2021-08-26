@@ -39,3 +39,15 @@ cat "as letras indicam a permissao do usuário:  r=ler, w=escrever e x=executar"
 echo "qual o seu arquivo?"
 read $1
 ls -l $1
+-------------------------------------------
+# T.I 
+[exemplos script 1](/fundamentosTI/exemplos1.sh)
+[exemplos script 2](/fundamentosTI/exemplos2.sh)
+[exemplos script 3](/fundamentosTI/exemplos3.sh)
+-------------------------------------------
+# Logica Computacional
+[exemplos java 1](/fundamentosTI/exemploslgcomputacional.java)
+[exemplos java 2](/fundamentosTI/exemploslgcomputacional2.java)
+[exemplos java 3](/fundamentosTI/exemploslgcomputacional3.java)
+
+
