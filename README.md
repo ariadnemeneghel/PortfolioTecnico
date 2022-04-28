@@ -50,9 +50,29 @@ SESI SENAI – São José, Distrito Industrial Cursando o terceiro ano do Ensino
 
 ## 2022
 ### Banco de Dados
+1 TRIMESTRE
 
+[DATABASE: LOJAROUPAS](/bancodedados/lojaderoupas.sql) | Atividade de "revisão". Me ajudou a lembrar o conteudo e conseguir fazer outras atividades sem preocupação
+
+[DATABASE: MERCADO](/bancodedados/mercado.sql) | Atividade mais extensa ajudando a me preparar para fazer algo maior e otima para obsorver melhor o conteudo.
+
+[DATABASE: VISUALIZACAO](/bancodedados/visualizacaotabela.sql) | Novo conteudo otimo para agregar mais no conhecimento e desenvolvimento sobre tal linguagem. 
 ### Modelagem de Sistemas
+1 TRIMESTRE
+
+[REPLIT: ONIBUS](/modelagemdesistemas/onibus.java) | Prova otima para ampliar a criatividade e trabalhar em atividades mais extensas. Acrescentando no conhecimento sobre o conteudo  
+
+[DIAGRAMA: PRESIDIO](/modelagemdesistemas/Presidio.drawio.png) | Atividade me ajudou muito a entender melhor o diagrama, também ampliando a criatividade e conhecimento.
+
+[DIAGRAMA: TCHANTCHAN](/modelagemdesistemas/diagramaTchan.drawio.png) | Trabalho em grupo melhorando a habilidade de comunicação e trabalho em equipe.
 
 ### Programação de Aplicativos
+1 TRIMESTRE
+
+[JAVA: ALECRIMDOURADO](/programacaodeaplicativo/AlecrimDourado.zip) | Trabalho para desenvolvimento em java, conhecendo e relembrando melhor a linguagem do java.
+
+[JAVA: GEOMETRIA ESPACIAL](/programacaodeaplicativo/GeoEspacial.zip) | Me ajudou a aprender a aplicar certo metodos, além de contribuir para o conhecimento sendo um conteudo novo.
+
+[JAVA: CAMERA](/programacaodeaplicativo/CAMERA.zip) | Trabalho divertido otimo para descontrair e absorver o conteudo de maneira leve e boa. 
 
 
