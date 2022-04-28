@@ -1,53 +1,51 @@
-# PortfolioTecnico2B
+# PortfolioTecnico
 Este repositório serve para guardar as atividade/comandos da aula técnica.   
-##  ariadne_marques@estudante.sc.senai.br | 32579899 | Rua das Camélias 236, Palhoça – Santa Catarina 88137420
-Oi, meu nome é Ariadne Meneghel Innocente Marques, tenho 16 anos.  Sou uma pessoa bem ambivertida . Dedicado e esforçado, com determinação em entregar excelência. Altamente organizada e consciente do trabalho em equipe, com forte 
-foco na satisfação do cliente.  Organizado e entusiasmado, com experiência em processamento de pagamentos feitos com
-exatidão e em manter altos níveis de satisfação de clientes em todas as interações. 
+##  ARIADNE MENEGHEL INNOCENTE MARQUES 
+ariadne.m812@gmail.com | (48) 30658366 | Rua das Camélias, Palhoça – Santa Catarina
+### RESUMO PROFISSIONAL: 
+Orientado ao cliente, alto desempenho voltadas a atingir ou superar metas. Dedicado e esforçado, com determinação em entregar excelência. Confiável pronta para aplicar habilidades na manutenção de áreas limpas, organizadas e profissionais. Altamente organizada e consciente do trabalho em equipe, com forte foco na satisfação do cliente. Operador de caixa amigável, contribuindo com mais de 2 anos de experiência em varejo. Organizado e entusiasmado, com experiência em processamento de pagamentos feitos com exatidão e em manter altos níveis de satisfação de clientes em todas as interações. 
+## HISTÓRICO PROFISSIONAL: 
+OPERADOR DE CAIXA – MERCADO SOL | JANEIRO DE 2018 - 2020  
+Verificação de preços para os clientes e dos itens processados vendidos pelo escaneamento do código de barras.  Ótimo atendimento ao cliente, oferecendo auxílio imediato e com dedicação.  Conferência da caixa registradora no início e ao final de cada turno, contabilizando cada erro e resolvendo as discrepâncias a fim de manter a correção.  Reestoque, arrumação e organização de mercadorias nas fileiras frontais para impulsionar a venda de produtos.  Adesão às leis federais ao verificar a identificação para comprovação da idade e recusar a venda de álcool a clientes menores de 18 anos de idade.  Auxílio aos clientes na conclusão de compras, localização de itens e adesão a programas de recompensas, a fim de promover a fidelidade, a satisfação e os números de vendas. 
+LUX Models – Modelo Publicitário | NOVEMBRO DE 2019 - DEZEMBRO DE 2019  
+Alto nível de profissionalismo em ambientes estressantes.  Aumento da presença em redes sociais para promover marcas e produtos específicos.  Colaboração com vários profissionais para planejar um rotina individualizada de autocuidado com base em saúde pessoal e necessidades. 
+FORMAÇÃO ACADÊMICA: SESI SENAI – São José, Distrito Industrial Cursando o terceiro ano do Ensino Médio com ensino técnico em Desenvolvimento de Sistemas.
 
-FORMAÇÃO ACADÊMICA:
+## EXPECIALIZAÇÕES: 
+-Java
 
-SESI SENAI – São José, Distrito Industrial
+-PL/SQL
 
-Cursando o segundo ano do Ensino Médio.
+-Linux
 
-COMPETÊNCIAS:
+-Figma, Canva,  Diagrams.net.
 
-- Interpretação
+-Inglês - nível intermediário
 
-- Habilidades em comunicação
+-Cultura Digital - ESCOLA VIRTUAL BRADESCO
 
-- Trabalho em equipe
+-Desenvolvimento Profissional -  ESCOLA VIRTUAL BRADESCO
 
-- Automotivação
+## COMPETÊNCIAS:  
+-Interpretação  
+-Habilidades em comunicação  
+-Trabalho em equipe  
+-Automotivação  
+-Atenção a detalhes  
 
-- Atenção a detalhe
-
-- Desenvolvimento de Sistemas iniciante;
-
-- Inglês básico 
 -------------------------------------------
-# Questão 1 Prova 16/07
- #!/bin/bash
- 
-cat /etc/passwd
--------------------------------------------
-# Questão 2
-.#!/bin/bash
- 
-cat "as letras indicam a permissao do usuário:  r=ler, w=escrever e x=executar"
-echo "qual o seu arquivo?"
-read $1
-ls -l $1
--------------------------------------------
-# T.I 
+## 2021
+### T.I 
 [exemplos script 1](/fundamentosTI/exemplos1.sh)
 [exemplos script 2](/fundamentosTI/exemplos2.sh)
 [exemplos script 3](/fundamentosTI/exemplos3.sh)
--------------------------------------------
-# Logica Computacional
+
+### Logica Computacional
 [exemplos java 1](/fundamentosTI/exemploslgcomputacional.java)
 [exemplos java 2](/fundamentosTI/exemploslgcomputacional2.java)
 [exemplos java 3](/fundamentosTI/exemploslgcomputacional3.java)
+
+## 2022
+
 
 
