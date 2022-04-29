@@ -1,5 +1,5 @@
 # PortfolioTecnico
-Este repositório serve para guardar as atividade/comandos da aula técnica.   
+- Este repositório serve para guardar as atividade/comandos da aula técnica.   
 ##  ARIADNE MENEGHEL INNOCENTE MARQUES 
 ariadne.m812@gmail.com | (48) 30658366 | Palhoça – Santa Catarina
 ### RESUMO PROFISSIONAL: 
@@ -15,29 +15,23 @@ Alto nível de profissionalismo em ambientes estressantes.  Aumento da presença
 SESI SENAI – São José, Distrito Industrial Cursando o terceiro ano do Ensino Médio com ensino técnico em Desenvolvimento de Sistemas.
 
 ## EXPECIALIZAÇÕES: 
--Java
-
--PL/SQL
-
--Linux
-
--Figma, Canva,  Diagrams.net.
-
--Inglês - nível intermediário
-
--Cultura Digital - ESCOLA VIRTUAL BRADESCO
-
--Desenvolvimento Profissional -  ESCOLA VIRTUAL BRADESCO
+- Java
+- PL/SQL
+- Linux
+- Figma, Canva,  Diagrams.net.
+- Inglês - nível intermediário
+- Cultura Digital - ESCOLA VIRTUAL BRADESCO
+- Desenvolvimento Profissional -  ESCOLA VIRTUAL BRADESCO
 
 ## COMPETÊNCIAS:  
--Interpretação  
--Habilidades em comunicação  
--Trabalho em equipe  
--Automotivação  
--Atenção a detalhes  
+- Interpretação  
+- Habilidades em comunicação  
+- Trabalho em equipe  
+- Automotivação  
+- Atenção a detalhes  
 
 -------------------------------------------
-## 2021
+## 2021 - SEGUNDO ANO
 ### Fundamentos de T.I 
 [exemplos script 1](/fundamentosTI/exemplos1.sh)
 [exemplos script 2](/fundamentosTI/exemplos2.sh)
@@ -48,7 +42,7 @@ SESI SENAI – São José, Distrito Industrial Cursando o terceiro ano do Ensino
 [exemplos java 2](/fundamentosTI/exemploslgcomputacional2.java)
 [exemplos java 3](/fundamentosTI/exemploslgcomputacional3.java)
 
-## 2022
+## 2022 - TERCEIRO ANO
 ### Banco de Dados
 1 TRIMESTRE
 
