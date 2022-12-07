@@ -70,4 +70,9 @@ SESI SENAI – São José, Distrito Industrial Cursando o terceiro ano do Ensino
 [JAVA: CAMERA](/programacaodeaplicativo/CAMERA.zip) | Trabalho divertido otimo para descontrair e absorver o conteudo de maneira leve e boa. 
 
 3 TRIMESTRE
-[MoodyDuck]
+
+[moodyDuck.zip](https://github.com/ariadnemeneghel/PortfolioTecnico/files/10175530/moodyDuck.zip)
+[blockSmoking.zip](https://github.com/ariadnemeneghel/PortfolioTecnico/files/10175535/blockSmoking.zip)
+[rec.zip](https://github.com/ariadnemeneghel/PortfolioTecnico/files/10175543/rec.zip) - Autoria
+
+
