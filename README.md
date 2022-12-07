@@ -75,6 +75,8 @@ SESI SENAI – São José, Distrito Industrial Cursando o terceiro ano do Ensino
 
 [blockSmoking.zip](https://github.com/ariadnemeneghel/PortfolioTecnico/files/10175535/blockSmoking.zip)
 
+[Teste de Sistemas - GeoEspacial.docx.pdf](https://github.com/ariadnemeneghel/PortfolioTecnico/files/10175563/Teste.de.Sistemas.-.GeoEspacial.docx.pdf)
+
 [rec.zip](https://github.com/ariadnemeneghel/PortfolioTecnico/files/10175543/rec.zip) - Autoria
 
 
