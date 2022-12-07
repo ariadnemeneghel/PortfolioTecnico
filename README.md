@@ -69,4 +69,5 @@ SESI SENAI – São José, Distrito Industrial Cursando o terceiro ano do Ensino
 
 [JAVA: CAMERA](/programacaodeaplicativo/CAMERA.zip) | Trabalho divertido otimo para descontrair e absorver o conteudo de maneira leve e boa. 
 
-
+3 TRIMESTRE
+[MoodyDuck]
